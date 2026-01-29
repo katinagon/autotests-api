@@ -44,6 +44,7 @@ class Exercise(TypedDict):
     """
     id: str
     title: str
+    courseId: str
     maxScore: int
     minScore: int
     orderIndex: int
