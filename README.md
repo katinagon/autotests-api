@@ -2,7 +2,7 @@
 
 Этот проект реализует автоматизированные тесты для
 [тестового сервера API Course](https://github.com/Nikita-Filonov/qa-automation-engineer-api-course). Тесты написаны с
-использованием **Python**, **Pytest**, **Allure**, **Pydantic**, **Faker** и **HTTPX**. Исходный код тестируемого
+использованием `Python`, `Pytest`, `Allure`, `Pydantic`, `Faker` и `HTTPX`. Исходный код тестируемого
 приложения доступен на [GitHub](https://github.com/katinagon/autotests-api).
 
 ## :clipboard: Описание проекта
