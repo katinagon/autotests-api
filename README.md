@@ -1,13 +1,13 @@
 # API Course Automation Tests
 
 Этот проект реализует автоматизированные тесты для
-[тестового сервера API Course](https://github.com/Nikita-Filonov/qa-automation-engineer-api-course). Тесты написаны с
+[тестового сервиса API Course](https://github.com/Nikita-Filonov/qa-automation-engineer-api-course). Тесты написаны с
 использованием `Python`, `Pytest`, `Allure`, `Pydantic`, `Faker` и `HTTPX`. Исходный код тестируемого
 приложения доступен на [GitHub](https://github.com/katinagon/autotests-api).
 
 ## :clipboard: Описание проекта
 
-Цель этого проекта — автоматизация тестирования сервера API Course с фокусом на тестирование REST API. Автоматизированные
+Цель этого проекта — автоматизация тестирования сервиса API Course с фокусом на тестирование REST API. Автоматизированные
 тесты проверяют различные функции приложения, чтобы обеспечить его стабильность и корректность работы.
 
 Данный проект специально разработан для автоматизации API-тестов и включает лучшие практики, такие как:
