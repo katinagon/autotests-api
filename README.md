@@ -76,3 +76,8 @@ allure serve allure-results
 ```
 
 Эта команда откроет Allure-отчет в вашем браузере по умолчанию.
+
+
+<p align="center">
+<img title="Suites" src="media/screen.png">
+</p>
