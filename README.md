@@ -1,4 +1,4 @@
-# API Course Automation Tests
+# API автотесты для микросервиса Course API
 
 Этот проект реализует автоматизированные тесты для
 [тестового сервиса API Course](https://github.com/Nikita-Filonov/qa-automation-engineer-api-course). Тесты написаны с
